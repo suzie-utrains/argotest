@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: httpd-servi
+  name: httpd-service
 spec:
   selector:
     app: httpd
